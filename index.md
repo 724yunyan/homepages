@@ -1,7 +1,7 @@
 
-#            Welcome to Cruiser World  1 
-##Before using this app, you need a github account and a respo.
-##follow these steps:
+#            Welcome to Cruiser World  20210205
+## Before using this app, you need a github account and a respo.
+## follow these steps:
 * Step 1: Set up a GitHub account
 	>[Video here!](https://www.youtube.com/watch?v=i872t4siHzE)
 	>You will need a GitHub account to create a GitHub repository where the revision will be stored. If you already have a GitHub account, 
