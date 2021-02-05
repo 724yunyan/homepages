@@ -16,4 +16,5 @@
 * Step 3: create token 
 	>[Video here](https://www.youtube.com/watch?v=CR-XlgQ9Pu4)
 	>[Doc guide here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
-	
+* Step 4: fill the user name  respo name token into the configure page
+	>[Video here](https://www.youtube.com/watch?v=C10Bqf1jlEM)
