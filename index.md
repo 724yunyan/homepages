@@ -3,9 +3,9 @@
 ## Before using this app, you need a github account and a respo.
 ## follow these steps:
 * Step 1: Set up a GitHub account
-	>[Video in youtube click here  ](https://www.youtube.com/watch?v=i872t4siHzE)  
-	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV1Dp4y1p7FN)  
-	>You will need a GitHub account to create a GitHub repository where the revision will be stored. If you already have a GitHub account, 
+	>[Video in youtube click here  ](https://www.youtube.com/watch?v=i872t4siHzE).  
+	>.  [Video in bilibili click here  ](https://www.bilibili.com/video/BV1Dp4y1p7FN)  
+	>.  You will need a GitHub account to create a GitHub repository where the revision will be stored. If you already have a GitHub account, 
 	>skip ahead to Step 2: Create a GitHub repository.
 	>Go to https://github.com/join.
 	>Type a user name, your email address, and a password.
