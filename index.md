@@ -21,3 +21,5 @@
 * Step 4: fill the user name  respo name token into the configure page
 	>[Video in youtube click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)  
 	>[Video in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjA4NjI0NA==.html)  
+	>[Video in youtube click here  ](https://youtu.be/uYqTFXDl5T4)  
+	>[Video in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)  
