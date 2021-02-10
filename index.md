@@ -3,8 +3,8 @@
 ## Before using this app, you need a github account and a respo.
 ## follow these steps:
 * Step 1: Set up a GitHub account
-	>[Video in youtube click here->](https://www.youtube.com/watch?v=i872t4siHzE)
-	>[Video in bilibili click here->](https://www.bilibili.com/video/BV1Dp4y1p7FN)
+	>[Video in youtube click here  ](https://www.youtube.com/watch?v=i872t4siHzE)
+	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV1Dp4y1p7FN)
 	>You will need a GitHub account to create a GitHub repository where the revision will be stored. If you already have a GitHub account, 
 	>skip ahead to Step 2: Create a GitHub repository.
 	>Go to https://github.com/join.
@@ -15,9 +15,9 @@
 	>If you already have a GitHub repository, be sure to substitute its name for CodeDeployGitHubDemo throughout this tutorial,
 	>and then skip ahead to 
 * Step 3: create token 
-	>[Video in youtube click here->](https://www.youtube.com/watch?v=CR-XlgQ9Pu4)
-	>[Video in bilibili click here->](https://www.bilibili.com/video/BV11A411T7b6)
-	>[Doc guide click here->](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
+	>[Video in youtube click here  ](https://www.youtube.com/watch?v=CR-XlgQ9Pu4)
+	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV11A411T7b6)
+	>[Doc guide click here  ](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)
 * Step 4: fill the user name  respo name token into the configure page
-	>[Video here click here->](https://www.youtube.com/watch?v=C10Bqf1jlEM)
-	>[Video in bilibili click here->](https://www.bilibili.com/video/BV11h411r7rx)
+	>[Video here click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)
+	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV11h411r7rx)
