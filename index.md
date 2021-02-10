@@ -19,7 +19,7 @@
 	>[Video in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjA3OTg1Ng==.html)  
 	>[Doc guide click here  ](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)  
 * Step 4: fill the user name  respo name token into the configure page
-	>[Video in youtube click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)  
-	>[Video in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjA4NjI0NA==.html)  
-	>[Video in youtube click here  ](https://youtu.be/uYqTFXDl5T4)  
-	>[Video in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)  
+	>[Video 1st  in youtube click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)  
+	>[Video 1st in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjA4NjI0NA==.html)  
+	>[Video 2nd in youtube click here  ](https://youtu.be/uYqTFXDl5T4)  
+	>[Video 2nd in youku click here  ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)  
