@@ -19,5 +19,5 @@
 	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV11A411T7b6)  
 	>[Doc guide click here  ](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token)  
 * Step 4: fill the user name  respo name token into the configure page
-	>[Video here click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)  
+	>[Video in youtube click here  ](https://www.youtube.com/watch?v=C10Bqf1jlEM)  
 	>[Video in bilibili click here  ](https://www.bilibili.com/video/BV11h411r7rx)  
