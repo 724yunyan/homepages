@@ -42,8 +42,7 @@
 >   ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- # 			              PRIVACY NOTICE
-          
+# 			              PRIVACY NOTICE          
                           Last updated February 19, 2021                               
 Thank you for choosing to be part of our community at Cruiser (\"Company\", \"we\", \"us\", \"our\").
 We are committed to protecting your personal information and your right to privacy. If you have any  questions or concerns about this 
@@ -52,7 +51,7 @@ When you use our mobile application, as the case may be (the \"App\") and more g
 which include the App),
 we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, 
 we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation
- to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you
+to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you
 do not agree with, please discontinue use of our Services immediately.                
 "This privacy notice applies to all information collected through our Services (which, as described above, includes our App),as well as, 
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
@@ -90,36 +89,36 @@ In Short:  We process your information for purposes based on legitimate business
 We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal 
 obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
   			
->We use the information we collect or receive:
->To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), 
+> We use the information we collect or receive:
+> To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), 
 we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. 
 See the section below headed \>HOW DO WE HANDLE YOUR SOCIAL LOGINS\" for further information.                
->To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use 
+> To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use 
 your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at 208yunyao@gmail.com and be sure to include 
 your name, testimonial location, and contact information.
 
->Request feedback. We may use your information to request feedback and to contact you about your use of our App.                
->To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.                
->To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.                
->To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information 
+> Request feedback. We may use your information to request feedback and to contact you about your use of our App.                
+> To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.                
+> To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.                
+> To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information 
 about changes to our terms, conditions, and policies.
 
->To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
->To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
->To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
+> To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
+> To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
+> To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
 respond.              
 
->Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the App.    
->Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our 
+> Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the App.    
+> Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our 
 competitions.               
 
->To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.                
->To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with 
+> To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.                
+> To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with 
 the use of our Services.                
->To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our 
+> To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our 
 marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our App, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the \"WHAT ARE YOUR PRIVACY RIGHTS\" below).
 
->Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
+> Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
 so) tailored to your interests and/or location and to measure its effectiveness.               
 
 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?                
