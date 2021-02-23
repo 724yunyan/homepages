@@ -75,7 +75,7 @@ these types of communications, you may turn them off in your device's settings.
 
 > 2. HOW DO WE USE YOUR INFORMATION?
 
-> In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal 
+> sIn Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal 
 obligations, and/or your consent.
 
 > We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes 
