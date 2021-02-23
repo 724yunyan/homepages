@@ -42,29 +42,29 @@ marketing or events.
 > Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.                
 > TABLE OF CONTENTS                
 > 1. WHAT INFORMATION DO WE COLLECT?
->2. HOW DO WE USE YOUR INFORMATION?
->3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
->4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
->5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
->6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
->7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
->8. HOW LONG DO WE KEEP YOUR INFORMATION?
->9. WHAT ARE YOUR PRIVACY RIGHTS?
->10. CONTROLS FOR DO-NOT-TRACK FEATURES
->11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
->12. DO WE MAKE UPDATES TO THIS NOTICE?
->13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
->14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
+> 2. HOW DO WE USE YOUR INFORMATION?
+> 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+> 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+> 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+> 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+> 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+> 8. HOW LONG DO WE KEEP YOUR INFORMATION?
+> 9. WHAT ARE YOUR PRIVACY RIGHTS?
+> 10. CONTROLS FOR DO-NOT-TRACK FEATURES
+> 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+> 12. DO WE MAKE UPDATES TO THIS NOTICE?
+> 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+> 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
->1. WHAT INFORMATION DO WE COLLECT?                
->Information collected through our App                
->In Short:  We collect information regarding your geo-location, mobile device, push notifications, when you use our App.                
->If you use our App, we also collect the following information:
->Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while 
+> 1. WHAT INFORMATION DO WE COLLECT?                
+> Information collected through our App                
+> In Short:  We collect information regarding your geo-location, mobile device, push notifications, when you use our App.                
+> If you use our App, we also collect the following information:
+> Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while 
 you are using our App, to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
->Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's storage, and other
+> Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's storage, and other
 features. If you wish to change our access or permissions, you may do so in your device's settings.
->Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information
+> Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information
 and system configuration information, device and application identification numbers, browser type and version, hardware model Internet service provider and/or 
 mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated 
 with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and 
@@ -73,51 +73,51 @@ information about the features of our App you accessed.
 these types of communications, you may turn them off in your device's settings.
 >This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
->2. HOW DO WE USE YOUR INFORMATION?
+> 2. HOW DO WE USE YOUR INFORMATION?
 
->In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal 
+> In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal 
 obligations, and/or your consent.
 
->We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes 
+> We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes 
 in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal 
 obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
->We use the information we collect or receive:
->To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), 
+> We use the information we collect or receive:
+> To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), 
 we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. 
 See the section below headed \>HOW DO WE HANDLE YOUR SOCIAL LOGINS\" for further information.                
->To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use 
+> To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use 
 your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at 208yunyao@gmail.com and be sure to include 
 your name, testimonial location, and contact information.
 
->Request feedback. We may use your information to request feedback and to contact you about your use of our App.                
->To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.                
->To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.                
->To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information 
+> Request feedback. We may use your information to request feedback and to contact you about your use of our App.                
+> To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.                
+> To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.                
+> To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information 
 about changes to our terms, conditions, and policies.
 
->To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
->To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
->To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
+> To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
+> To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
+> To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
 respond.              
 
->Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the App.    
->Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our 
+> Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the App.    
+> Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our 
 competitions.               
 
->To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.                
->To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with 
+> To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.                
+> To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with 
 the use of our Services.                
->To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our 
+> To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our 
 marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our App, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the \"WHAT ARE YOUR PRIVACY RIGHTS\" below).
 
->Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
+> Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
 so) tailored to your interests and/or location and to measure its effectiveness.               
 
->3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?                
->In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.                
->We may process or share your data that we hold based on the following legal basis:
->Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.                
+> 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?                
+> In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.                
+> We may process or share your data that we hold based on the following legal basis:
+> Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.                
 >Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.                
 >Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.                
 >Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial
