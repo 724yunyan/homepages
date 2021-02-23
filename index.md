@@ -41,7 +41,7 @@
 >   [Video 2nd in youku click here
 >   ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 # 			              PRIVACY NOTICE          
                           Last updated February 19, 2021                               
 Thank you for choosing to be part of our community at Cruiser (\"Company\", \"we\", \"us\", \"our\").
@@ -226,4 +226,4 @@ or by directly sending you a notification. We encourage you to review this priva
 >Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, 
 or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. 
 We will respond to your request within 30 days.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
