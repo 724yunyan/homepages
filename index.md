@@ -215,11 +215,11 @@ effective as soon as it is accessible. If we make material changes to this priva
 or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.                
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?                     
 >If you have questions or comments about this notice, you may email us at 208yunyao@gmail.com or by post to:                
-				> Cruiser
-				> 1991 NW Upshur St
-				> Suite G ZB28-8D
-				> Portland, OREGON 97209
-				> Armenia                
+> Cruiser
+> 1991 NW Upshur St
+> Suite G ZB28-8D
+> Portland, OREGON 97209
+> Armenia                
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?                     
 >Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, 
 or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. 
