@@ -39,7 +39,7 @@
                 >When you use our mobile application, as the case may be (the \"App\") and more generally, use any of our services (the \"Services\", which include the App),
                  we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in 
                  the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through
-                  it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.                
+                 it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately.                
                 "This privacy notice applies to all information collected through our Services (which, as described above, includes our App), as well as, any related services, sales, 
                 marketing or events.                
                 >Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.                
@@ -64,7 +64,7 @@
                 >In Short:  We collect information regarding your geo-location, mobile device, push notifications, when you use our App.                
                 >If you use our App, we also collect the following information:
                 >Geo-Location Information. We may request access or permission to and track location-based information from your mobile device, either continuously or while 
-                you are using our App, to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
+                  you are using our App, to provide certain location-based services. If you wish to change our access or permissions, you may do so in your device's settings.
                  >Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's storage, and other
                   features. If you wish to change our access or permissions, you may do so in your device's settings.
  				 >Mobile Device Data. We automatically collect device information (such as your mobile device ID, model and manufacturer), operating system, version information
@@ -72,8 +72,8 @@
  				  mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated 
  				  with your mobile device, your mobile device’s operating system or platform, the type of mobile device you use, your mobile device’s unique device ID and 
  				  information about the features of our App you accessed.                
-                >Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving 
-                these types of communications, you may turn them off in your device's settings.
+                 >Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving 
+                   these types of communications, you may turn them off in your device's settings.
                 >This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
                 
                 >2. HOW DO WE USE YOUR INFORMATION?
