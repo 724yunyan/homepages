@@ -42,11 +42,11 @@
 >   ](https://v.youku.com/v_show/id_XNTEwMjEwMTY4OA==.html)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-  														PRIVACY NOTICE
+  			              PRIVACY NOTICE
           
 Last updated February 19, 2021                               
 Thank you for choosing to be part of our community at Cruiser (\"Company\", \"we\", \"us\", \"our\").
-We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at 208yunyao@gmail.com.
+We are committed to protecting your personal information and your right to privacy. If you have any  questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at 208yunyao@gmail.com.
   			
 When you use our mobile application, as the case may be (the \"App\") and more generally, use any of our services (the \"Services\", which include the App),
 we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in 
