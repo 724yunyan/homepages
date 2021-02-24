@@ -57,7 +57,7 @@ do not agree with, please discontinue use of our Services immediately.
 "This privacy notice applies to all information collected through our Services (which, as described above, includes our App),as well as, 
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
 the information that we collect.
- TABLE OF CONTENTS                
+##  TABLE OF CONTENTS                
  >	1. WHAT INFORMATION DO WE COLLECT?
  >	2. HOW DO WE USE YOUR INFORMATION?
  >	3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
