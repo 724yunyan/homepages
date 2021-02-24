@@ -1,4 +1,4 @@
-# Welcome to Cruiser World 20210224|10:25
+# Welcome to Cruiser World 20210224|10:30
 
 ## Before using this app, you need a github account and a respo.
 
@@ -70,7 +70,8 @@ the information that we collect.
  >	 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
  >	 12. DO WE MAKE UPDATES TO THIS NOTICE?
  >	 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
- >	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?  			
+ >	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?	
+ 
 ## 1. WHAT INFORMATION DO WE COLLECT?                
 > Information collected through our App                
 > In Short:  We collect information regarding your geo-location, 	mobile device, push notifications, when you use our App.                
@@ -148,7 +149,7 @@ those websites.
 ## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?                
 >  In Short:  We may use cookies and other tracking technologies to collect and store your information.                
 >We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such 
-technologies and how you can refuse certain cookies is set out in our Cookie Notice.                
+technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?                     
 >  In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 
@@ -167,25 +168,24 @@ their sites and apps.
 our facilities and by those third parties with whom we may share your personal information (see \"WILL YOUR INFORMATION BE SHARED WITH ANYONE?\" 
 above), in and other countries.                
 >  If you are a resident in the European Economic Area, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as
-those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.               
+those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
 ## 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?                
 >  In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our Website. 
 >  The App may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. 
 We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the App. You should review the policies of such third parties and contact them directly to respond to your questions.
 
 ## 8. HOW LONG DO WE KEEP YOUR INFORMATION?                
->  In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.                
->  We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required 
-or permitted by law (such as tax, accounting or other legal requirements). No purpose in this notice will require us keeping your personal information for longer 
-than one year.                
->  When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not 
-possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate
-it from any further processing until deletion is possible.
+>  In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+>  We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period 
+>  is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this notice will require us keeping your personal information
+>  for longer than one year.                
+>  When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not
+>  possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate
+>  it from any further processing until deletion is possible.
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?                
 >  In Short:  You may review, change, or terminate your account at any time.        
 >  If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain 
-to your local data protection supervisory authority. You can find their contact details here:http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.         
->  If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.  
+>  to your local data protection supervisory authority. You can find their contact details here:http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.     >  If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.  
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES                
 >  Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signa
 your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for 
