@@ -57,20 +57,20 @@ do not agree with, please discontinue use of our Services immediately.
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
 the information that we collect.
 ##  TABLE OF CONTENTS
- >	 1. WHAT INFORMATION DO WE COLLECT?
- >	 2. HOW DO WE USE YOUR INFORMATION?
- >	 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
- >	 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
- >	 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
- >	 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
- >	 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
- >	 8. HOW LONG DO WE KEEP YOUR INFORMATION?
- >	 9. WHAT ARE YOUR PRIVACY RIGHTS?
- >	 10. CONTROLS FOR DO-NOT-TRACK FEATURES
- >	 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
- >	 12. DO WE MAKE UPDATES TO THIS NOTICE?
- >	 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
- >	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?	
+>	 1. WHAT INFORMATION DO WE COLLECT?
+>	 2. HOW DO WE USE YOUR INFORMATION?
+>	 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+>	 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+>	 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+>	 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+>	 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+>	 8. HOW LONG DO WE KEEP YOUR INFORMATION?
+>	 9. WHAT ARE YOUR PRIVACY RIGHTS?
+>	 10. CONTROLS FOR DO-NOT-TRACK FEATURES
+>	 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+>	 12. DO WE MAKE UPDATES TO THIS NOTICE?
+>	 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+>	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?	
  
 ## 1. WHAT INFORMATION DO WE COLLECT?                
 > Information collected through our App                
@@ -182,7 +182,7 @@ We cannot guarantee the safety and privacy of data you provide to any third part
 >  When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not
 >  possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate
 >  it from any further processing until deletion is possible.
-## 9. WHAT ARE YOUR PRIVACY RIGHTS?                
+## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 >  In Short:  You may review, change, or terminate your account at any time.        
 >  If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain 
 >  to your local data protection supervisory authority. You can find their contact details here:http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.     >  If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.  
