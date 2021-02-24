@@ -1,4 +1,4 @@
-# Welcome to Cruiser World 20210224|10:55
+# Welcome to Cruiser World 20210224|11:00
 
 ## Before using this app, you need a github account and a respo.
 
@@ -118,8 +118,8 @@ marketing purposes, if this is in accordance with your marketing preferences. Fo
 >  Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
 so) tailored to your interests and/or location and to measure its effectiveness.               
 
-## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?                
->  In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.                
+## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+>  In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.        
 >  We may process or share your data that we hold based on the following legal basis:
 >  Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.                
 >  Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.                
@@ -127,7 +127,6 @@ so) tailored to your interests and/or location and to measure its effectiveness.
 >  Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial
 proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security 
 or law enforcement requirements).
-
 >  Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, 
 suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 >  More specifically, we may need to process your data or share your personal information in the following situations:
@@ -136,16 +135,9 @@ acquisition of all or a portion of our business to another company.
 >  Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent 
 company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.                
 >  Offer Wall. Our App may display a third-party hosted \"offer wall.\" Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items 
-to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain 
-data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other 
-persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit 
-your account with the relevant reward. Please note that we do not control third-party websites and have no responsibility in relation to the content of such websites.
-The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding
-such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website,
-please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of 
-those websites.
-## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?                
->  In Short:  We may use cookies and other tracking technologies to collect and store your information.                
+to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward. Please note that we do not control third-party websites and have no responsibility in relation to the content of such websites. The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website,please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of those websites.
+## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES? 
+>  In Short:  We may use cookies and other tracking technologies to collect and store your information.
 >  We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such 
 >  technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?                     
