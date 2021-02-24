@@ -1,4 +1,4 @@
-# Welcome to Cruiser World 20210224|11:00
+# Welcome to Cruiser World 20210224|11:05
 
 ## Before using this app, you need a github account and a respo.
 
@@ -135,9 +135,9 @@ acquisition of all or a portion of our business to another company.
 >  Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent 
 company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.                
 >  Offer Wall. Our App may display a third-party hosted \"offer wall.\" Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items 
-to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward. Please note that we do not control third-party websites and have no responsibility in relation to the content of such websites. The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website,please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of those websites.
+to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward. Please >  note that we do not control third-party websites and have no responsibility in relation to the content of such websites. The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website,please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of those websites.
 ## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES? 
->  In Short:  We may use cookies and other tracking technologies to collect and store your information.
+>  In Short:We may use cookies and other tracking technologies to collect and store your information.
 >  We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such 
 >  technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?                     
@@ -203,6 +203,6 @@ or by directly sending you a notification. We encourage you to review this priva
 >  Armenia                
 ## 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?                     
 >  Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, 
-or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here. 
+or delete it in some circumstances. To request to review, update, or delete your personal information, please email us at 208yunyao@gmail.com. 
 We will respond to your request within 30 days.
 
