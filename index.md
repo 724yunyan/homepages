@@ -3,7 +3,6 @@
 ## Before using this app, you need a github account and a respo.
 
 ## follow these steps:
-
 -   Step 1: Set up a GitHub account
 
 >   [Video in youtube click here ](https://www.youtube.com/watch?v=i872t4siHzE) 
@@ -152,7 +151,6 @@ those websites.
 technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?                     
 >  In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
-
 >  Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to
 do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social
 media provider concerned, but will often include your name, email address, friends list, profile picture as well as other information you choose to make public on
@@ -161,7 +159,6 @@ such social media platform.
 Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend 
 that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on 
 their sites and apps.
-
 ## 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?                     
 >  In Short:  We may transfer, store, and process your information in countries other than your own.                
 >  Our servers are located in. If you are accessing our App from outside, please be aware that your information may be transferred to, stored, and processed by us in
@@ -173,7 +170,6 @@ those in your country. We will however take all necessary measures to protect yo
 >  In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our Website. 
 >  The App may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. 
 We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the App. You should review the policies of such third parties and contact them directly to respond to your questions.
-
 ## 8. HOW LONG DO WE KEEP YOUR INFORMATION?                
 >  In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 >  We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period 
@@ -202,8 +198,7 @@ and would like to make such a request, please submit your request in writing to 
 you publicly post on the App. To request removal of such data, please contact us using the contact information provided below, and include the email address 
 associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the App, but please be aware 
 that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).                
-## 12. DO WE MAKE UPDATES TO THIS NOTICE?     
-
+## 12. DO WE MAKE UPDATES TO THIS NOTICE?
 >  In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.                
 >  We may update this privacy notice from time to time. The updated version will be indicated by an updated \"Revised\" date and the updated version will be 
 effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes 
