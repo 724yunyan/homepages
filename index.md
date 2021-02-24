@@ -168,9 +168,9 @@ their sites and apps.
 our facilities and by those third parties with whom we may share your personal information (see \"WILL YOUR INFORMATION BE SHARED WITH ANYONE?\" 
 above), in and other countries.                
 >  If you are a resident in the European Economic Area, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as
-those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.                " 
+those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.               
 ## 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?                
->  In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our Website.                               
+>  In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our Website. 
 >  The App may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. 
 We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the App. You should review the policies of such third parties and contact them directly to respond to your questions.
 
@@ -182,13 +182,11 @@ than one year.
 >  When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not 
 possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate
 it from any further processing until deletion is possible.
-
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?                
->  In Short:  You may review, change, or terminate your account at any time.                " 
+>  In Short:  You may review, change, or terminate your account at any time.        
 >  If you are a resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain 
-to your local data protection supervisory authority. You can find their contact details here: 
-http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.                
->If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.                
+to your local data protection supervisory authority. You can find their contact details here:http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.         
+>  If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.  
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES                
 >  Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (\"DNT\") feature or setting you can activate to signa
 your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for 
@@ -196,7 +194,6 @@ recognizing and implementing DNT signals has been finalized. As such, we do not 
 automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform 
 you about that practice in a revised version of this privacy notice.                 
 ## 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-
 >  In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 >  California Civil Code Section 1798.83, also known as the \"Shine The Light\" law, permits our users who are California residents to request and obtain from us, 
 once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the 
