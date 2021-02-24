@@ -1,4 +1,4 @@
-# Welcome to Cruiser World 20210224|10:50
+# Welcome to Cruiser World 20210224|10:55
 
 ## Before using this app, you need a github account and a respo.
 
@@ -56,36 +56,36 @@ do not agree with, please discontinue use of our Services immediately.
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
 the information that we collect.
 ##  TABLE OF CONTENTS
->	 1. WHAT INFORMATION DO WE COLLECT?
->	 2. HOW DO WE USE YOUR INFORMATION?
->	 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
->	 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
->	 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
->	 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
->	 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
->	 8. HOW LONG DO WE KEEP YOUR INFORMATION?
->	 9. WHAT ARE YOUR PRIVACY RIGHTS?
->	 10. CONTROLS FOR DO-NOT-TRACK FEATURES
->	 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
->	 12. DO WE MAKE UPDATES TO THIS NOTICE?
->	 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
->	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?	
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE USE YOUR INFORMATION?
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
+6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
+7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+8. HOW LONG DO WE KEEP YOUR INFORMATION?
+9. WHAT ARE YOUR PRIVACY RIGHTS?
+10. CONTROLS FOR DO-NOT-TRACK FEATURES
+11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+12. DO WE MAKE UPDATES TO THIS NOTICE?
+13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?	
  
 ## 1. WHAT INFORMATION DO WE COLLECT?                
-> Information collected through our App                
-> In Short:  We collect information regarding your geo-location, 	mobile device, push notifications, when you use our App.                
-> If you use our App, we also collect the following information:
-> Geo-Location Information. We may request access or permission to 	and track location-based information from your mobile device, either continuously or while 
-> you are using our App, to provide certain location-based 	services. If you wish to change our access or permissions, you 	may do so in your device's settings.
-> Mobile Device Access. We may request access or permission to 	certain features from your mobile device, including your mobile 	device's storage, and other features. If you wish to change our 	access or permissions, you may do so in your device's settings.
-> Mobile Device Data. We automatically collect device information 	(such as your mobile device ID, model and 	manufacturer),operating system, version information and system 	configuration information, device and application identification 	numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated	with your mobile device, your mobile device�s operating system or platform, the type of mobile device you use, your mobile device�s unique device ID and information about the features of our App you accessed.                
-> Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
-> This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
+>  Information collected through our App                
+>  In Short:  We collect information regarding your geo-location, 	mobile device, push notifications, when you use our App.                
+>  If you use our App, we also collect the following information:
+>  Geo-Location Information. We may request access or permission to 	and track location-based information from your mobile device, either continuously or while 
+>  you are using our App, to provide certain location-based 	services. If you wish to change our access or permissions, you 	may do so in your device's settings.
+>  Mobile Device Access. We may request access or permission to 	certain features from your mobile device, including your mobile 	device's storage, and other features. If you wish to change our 	access or permissions, you may do so in your device's settings.
+>  Mobile Device Data. We automatically collect device information 	(such as your mobile device ID, model and 	manufacturer),operating system, version information and system 	configuration information, device and application identification 	numbers, browser type and version, hardware model Internet service provider and/or mobile carrier, and Internet Protocol (IP) address (or proxy server). If you are using our App, we may also collect information about the phone network associated	with your mobile device, your mobile device�s operating system or platform, the type of mobile device you use, your mobile device�s unique device ID and information about the features of our App you accessed.                
+>  Push Notifications. We may request to send you push notifications regarding your account or certain features of the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
+>  This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
   			
 ## 2. HOW DO WE USE YOUR INFORMATION?  			
 > In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
-> We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal 
-> obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.  			
+>  We use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal 
+>  obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.  			
 >  We use the information we collect or receive:
 >  To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), 
 we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. 
@@ -101,7 +101,7 @@ your name, testimonial location, and contact information.
 about changes to our terms, conditions, and policies.
 
 >  To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
-> To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
+>  To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
 >  To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
 respond.              
 
@@ -143,12 +143,11 @@ your account with the relevant reward. Please note that we do not control third-
 The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding
 such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website,
 please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of 
-those websites.                               
-
+those websites.
 ## 4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?                
 >  In Short:  We may use cookies and other tracking technologies to collect and store your information.                
->We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such 
-technologies and how you can refuse certain cookies is set out in our Cookie Notice.
+>  We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such 
+>  technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?                     
 >  In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 >  Our App offers you the ability to register and login using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to
