@@ -1,4 +1,4 @@
-# Welcome to Cruiser World 20210224|11:05
+# Welcome to Cruiser World 20210224|11:11
 
 ## Before using this app, you need a github account and a respo.
 
@@ -93,31 +93,25 @@ See the section below headed \>HOW DO WE HANDLE YOUR SOCIAL LOGINS\" for further
 >  To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use 
 your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at 208yunyao@gmail.com and be sure to include 
 your name, testimonial location, and contact information.
-
 >  Request feedback. We may use your information to request feedback and to contact you about your use of our App.                
 >  To enable user-to-user communications. We may use your information in order to enable user-to-user communications with each user's consent.                
 >  To manage user accounts. We may use your information for the purposes of managing our account and keeping it in working order.                
 >  To send administrative information to you. We may use your personal information to send you product, service and new feature information and/or information 
 about changes to our terms, conditions, and policies.
-
->  To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).                
+>  To protect our Services. We may use your information as part of our efforts to keep our App safe and secure (for example, for fraud monitoring and prevention).
 >  To enforce our terms, conditions and policies for business purposes, to comply with legal and regulatory requirements or in connection with our contract.                
 >  To respond to legal requests and prevent harm. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to
-respond.              
-
+respond.
 >  Fulfill and manage your orders. We may use your information to fulfill and manage your orders, payments, returns, and exchanges made through the App.    
 >  Administer prize draws and competitions. We may use your information to administer prize draws and competitions when you elect to participate in our 
-competitions.               
-
+competitions. 
 >  To deliver and facilitate delivery of services to the user. We may use your information to provide you with the requested service.                
 >  To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with 
 the use of our Services.                
 >  To send you marketing and promotional communications. We and/or our third-party marketing partners may use the personal information you send to us for our 
 marketing purposes, if this is in accordance with your marketing preferences. For example, when expressing an interest in obtaining information about us or our App, subscribing to marketing or otherwise contacting us, we will collect personal information from you. You can opt-out of our marketing emails at any time (see the \"WHAT ARE YOUR PRIVACY RIGHTS\" below).
-
 >  Deliver targeted advertising to you. We may use your information to develop and display personalized content and advertising (and work with third parties who do 
-so) tailored to your interests and/or location and to measure its effectiveness.               
-
+so) tailored to your interests and/or location and to measure its effectiveness.  
 ## 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 >  In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.        
 >  We may process or share your data that we hold based on the following legal basis:
