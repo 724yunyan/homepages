@@ -43,7 +43,7 @@
 
 
 # 			              PRIVACY NOTICE          
-                          Last updated February 19, 2021                               
+                      Last updated February 19, 2021                               
 Thank you for choosing to be part of our community at Cruiser (\"Company\", \"we\", \"us\", \"our\").
 We are committed to protecting your personal information and your right to privacy. If you have any  questions or concerns about this 
 privacy notice, or our practices with regards to your personal  information, please contact us at .  
@@ -55,23 +55,22 @@ to it. We hope you take some time to read through it carefully, as it is importa
 do not agree with, please discontinue use of our Services immediately.                
 "This privacy notice applies to all information collected through our Services (which, as described above, includes our App),as well as, 
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
-the information that we collect.                
-
-TABLE OF CONTENTS                
+the information that we collect.
+ TABLE OF CONTENTS                
  >	1. WHAT INFORMATION DO WE COLLECT?
  >	2. HOW DO WE USE YOUR INFORMATION?
  >	3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
  >	4. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
  >	5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
  >	6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
- > 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
- > 8. HOW LONG DO WE KEEP YOUR INFORMATION?
- > 9. WHAT ARE YOUR PRIVACY RIGHTS?
- > 10. CONTROLS FOR DO-NOT-TRACK FEATURES
- > 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
- > 12. DO WE MAKE UPDATES TO THIS NOTICE?
- > 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
- > 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
+ >  7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
+ >  8. HOW LONG DO WE KEEP YOUR INFORMATION?
+ >  9. WHAT ARE YOUR PRIVACY RIGHTS?
+ >  10. CONTROLS FOR DO-NOT-TRACK FEATURES
+ >  11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+ >  12. DO WE MAKE UPDATES TO THIS NOTICE?
+ >  13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+ >  14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
   			
 1. WHAT INFORMATION DO WE COLLECT?                
 > Information collected through our App                
