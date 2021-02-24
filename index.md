@@ -12,9 +12,7 @@
 >   user name, your email address, and a password. Choose Sign up for GitHub,
 >   and then follow the instructions.
 -   Step 2: Create a GitHub repository
-
->   You will need a GitHub repository to store the revision. If you already have
->   a GitHub repository, be sure to substitute its name for CodeDeployGitHubDemo
+>   You will need a GitHub repository to store the revision. If you already have a GitHub repository,
 >   throughout this tutorial, and then skip ahead to
 -   Step 3: create token
 >   [Video in youtube click here ](https://www.youtube.com/watch?v=CR-XlgQ9Pu4)    
