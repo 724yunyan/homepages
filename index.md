@@ -56,7 +56,7 @@ do not agree with, please discontinue use of our Services immediately.
 "This privacy notice applies to all information collected through our Services (which, as described above, includes our App),as well as, 
 any related services, sales, marketing or events. Please read this privacy notice carefully as it will help you understand what we do with 
 the information that we collect.
-##  TABLE OF CONTENTS                
+##  TABLE OF CONTENTS
  >	 1. WHAT INFORMATION DO WE COLLECT?
  >	 2. HOW DO WE USE YOUR INFORMATION?
  >	 3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
@@ -64,14 +64,13 @@ the information that we collect.
  >	 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
  >	 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
  >	 7. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
- >  8. HOW LONG DO WE KEEP YOUR INFORMATION?
- >  9. WHAT ARE YOUR PRIVACY RIGHTS?
- >  10. CONTROLS FOR DO-NOT-TRACK FEATURES
- >  11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
- >  12. DO WE MAKE UPDATES TO THIS NOTICE?
- >  13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
- >  14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
-  			
+ >	 8. HOW LONG DO WE KEEP YOUR INFORMATION?
+ >	 9. WHAT ARE YOUR PRIVACY RIGHTS?
+ >	 10. CONTROLS FOR DO-NOT-TRACK FEATURES
+ >	 11. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+ >	 12. DO WE MAKE UPDATES TO THIS NOTICE?
+ >	 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+ >	 14. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?  			
 ## 1. WHAT INFORMATION DO WE COLLECT?                
 > Information collected through our App                
 > In Short:  We collect information regarding your geo-location, 	mobile device, push notifications, when you use our App.                
